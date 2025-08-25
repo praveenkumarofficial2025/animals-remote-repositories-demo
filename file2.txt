@@ -1,1 +1,2 @@
 this is file 2 content from local
+this is line 2 content from remote
